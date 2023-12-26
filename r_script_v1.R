@@ -24,7 +24,7 @@ k <- ncol(contingency_table)
 cramer_v_value <- cramer_v(chi_square_test$statistic, n, r, k)
 print(cramer_v_value)
 
-install.packages("glue")
+# install.packages("glue")
 
 
 library(ggplot2)
@@ -38,7 +38,7 @@ ggplot(data, aes(x = Claims_History, fill = Local_Weather_Conditions)) +
 
 
 
-library(ggplot2)
+# library(ggplot2)
 
 # Assuming data is already loaded as 'data'
 # Creating a stacked bar chart
@@ -52,4 +52,25 @@ ggplot(data, aes(x = Claims_History, fill = Local_Weather_Conditions)) +
   theme(axis.text.x = element_text(angle = 0, hjust = 1))  # Horizontal x-axis labels
 
 # Note: This will create a stacked bar chart with the number of policies for each combination of Claims History and Local Weather Conditions.
+
+# library(ggplot2)
+
+# Include labels for bar charts
+# Convert Claims_History to a factor with levels ordered as Low, Medium, High
+
+
+data$Claims_History <- factor(data$Claims_History, levels = c("Low", "Medium", "High"))
+
+# Creating the stacked bar chart with data labels and ordered x-axis
+ggplot(data, aes(x = Claims_History, fill = Local_Weather_Conditions)) +
+  geom_bar(position = "stack") +  # Stacking the bars
+  geom_text(stat='count', aes(label=..count..), position=position_stack(vjust=0.5), color="white") +  # Adding white count labels
+  scale_fill_manual(values = c("#003366", "#336699")) +  # Setting custom colors
+  labs(title = "Number of Policies by Claims History and Local Weather Conditions",
+       x = "Claims History",
+       y = "Number of Policies") +
+  theme_minimal() +  # Minimal theme for a cleaner look
+  theme(axis.text.x = element_text(angle = 0, hjust = 1))  # Horizontal x-axis labels
+
+# Note: After converting to a factor, the order of levels in Claims_History will determine the order on the x-axis.
 
