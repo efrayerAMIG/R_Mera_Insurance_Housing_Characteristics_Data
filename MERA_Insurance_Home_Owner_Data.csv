@@ -1,0 +1,501 @@
+﻿Customer_ID,Location,Home_Age,Home_Size_sqft,Security_System,Fire_Safety,Roof_Condition,Swimming_Pool,Credit_Score,Claims_History,Home_Use,Pets,Policy_Type,Deductible,Crime_Rate,Proximity_to_Water,Local_Weather_Conditions
+1000001,Rural,76,2164,FALSE,FALSE,Old,FALSE,719,Medium,Vacation Home,TRUE,HO-3,507,Low,Moderate,Normal
+1000002,Urban,45,1365,TRUE,TRUE,New,TRUE,444,High,Rental,TRUE,HO-5,732,High,Close,Severe
+1000003,Rural,45,2697,FALSE,FALSE,Old,TRUE,475,High,Rental,TRUE,HO-5,1221,Low,Close,Severe
+1000004,Urban,99,1199,FALSE,FALSE,New,FALSE,510,High,Rental,FALSE,HO-6,1326,Medium,Far,Normal
+1000005,Urban,21,3351,FALSE,TRUE,Old,TRUE,563,Medium,Primary Residence,TRUE,HO-1,344,High,Moderate,Normal
+1000006,Suburban,54,3911,TRUE,FALSE,New,FALSE,440,Medium,Rental,TRUE,HO-3,1089,High,Far,Severe
+1000007,Urban,89,2123,FALSE,TRUE,Old,FALSE,653,Low,Primary Residence,FALSE,HO-5,1244,Medium,Moderate,Severe
+1000008,Rural,100,2689,FALSE,FALSE,Fair,FALSE,730,Medium,Vacation Home,FALSE,HO-2,1935,Medium,Far,Severe
+1000009,Rural,44,1719,FALSE,FALSE,New,TRUE,431,High,Rental,TRUE,HO-1,1138,Low,Moderate,Severe
+1000010,Rural,64,1872,FALSE,FALSE,New,FALSE,721,Medium,Vacation Home,FALSE,HO-5,1084,Low,Far,Severe
+1000011,Urban,98,3736,FALSE,TRUE,Old,FALSE,551,Low,Primary Residence,FALSE,HO-3,1041,High,Moderate,Severe
+1000012,Suburban,29,3295,FALSE,FALSE,Fair,TRUE,681,Medium,Vacation Home,FALSE,HO-1,453,Low,Close,Severe
+1000013,Urban,71,2762,TRUE,FALSE,New,FALSE,587,High,Primary Residence,FALSE,HO-5,1485,High,Moderate,Severe
+1000014,Rural,96,3457,TRUE,TRUE,Old,TRUE,623,Medium,Vacation Home,FALSE,HO-4,1969,Medium,Moderate,Normal
+1000015,Rural,4,3523,TRUE,FALSE,Old,FALSE,488,Low,Primary Residence,FALSE,HO-3,1253,Low,Close,Severe
+1000016,Suburban,77,1553,TRUE,TRUE,New,FALSE,677,High,Vacation Home,FALSE,HO-5,539,Low,Close,Severe
+1000017,Suburban,43,2850,TRUE,FALSE,Old,FALSE,524,High,Primary Residence,TRUE,HO-3,309,Medium,Close,Severe
+1000018,Rural,19,2763,FALSE,TRUE,Old,FALSE,712,Medium,Vacation Home,TRUE,HO-5,1220,Low,Moderate,Normal
+1000019,Rural,4,1459,FALSE,TRUE,New,TRUE,663,Low,Vacation Home,TRUE,HO-4,712,Medium,Close,Severe
+1000020,Suburban,78,3429,TRUE,FALSE,Old,TRUE,504,Low,Primary Residence,FALSE,HO-5,1146,Low,Moderate,Normal
+1000021,Rural,92,1080,TRUE,TRUE,New,TRUE,758,Medium,Vacation Home,TRUE,HO-2,1260,Low,Close,Normal
+1000022,Rural,38,979,TRUE,TRUE,Fair,TRUE,440,High,Rental,TRUE,HO-6,570,Low,Moderate,Normal
+1000023,Rural,28,2318,TRUE,TRUE,Old,FALSE,452,High,Rental,TRUE,HO-6,1665,High,Far,Normal
+1000024,Suburban,71,2575,TRUE,FALSE,New,TRUE,503,Medium,Primary Residence,FALSE,HO-5,1373,Medium,Far,Severe
+1000025,Rural,48,3044,FALSE,FALSE,Fair,TRUE,428,Low,Rental,TRUE,HO-4,124,Low,Close,Severe
+1000026,Rural,59,2613,TRUE,TRUE,New,TRUE,704,High,Vacation Home,FALSE,HO-3,1119,Low,Close,Severe
+1000027,Urban,93,2055,FALSE,TRUE,New,TRUE,403,High,Rental,TRUE,HO-1,586,Medium,Far,Normal
+1000028,Rural,44,2575,FALSE,FALSE,New,FALSE,593,Medium,Primary Residence,FALSE,HO-5,1901,High,Far,Normal
+1000029,Rural,43,3055,TRUE,FALSE,Old,TRUE,425,Medium,Rental,FALSE,HO-5,1294,Medium,Far,Normal
+1000030,Urban,13,2903,TRUE,FALSE,Old,TRUE,438,Low,Rental,TRUE,HO-3,311,High,Far,Normal
+1000031,Urban,12,3384,FALSE,TRUE,Old,FALSE,425,Medium,Rental,FALSE,HO-3,152,High,Far,Normal
+1000032,Rural,34,1523,TRUE,FALSE,Old,FALSE,524,Medium,Rental,FALSE,HO-6,1704,Medium,Close,Severe
+1000033,Urban,93,939,TRUE,TRUE,Fair,TRUE,574,Low,Primary Residence,TRUE,HO-5,232,Medium,Far,Normal
+1000034,Suburban,3,1786,FALSE,FALSE,New,FALSE,522,Low,Primary Residence,TRUE,HO-5,1854,Medium,Far,Normal
+1000035,Urban,69,3800,TRUE,FALSE,New,FALSE,616,Medium,Primary Residence,FALSE,HO-1,1757,High,Moderate,Normal
+1000036,Rural,36,1179,TRUE,FALSE,Old,TRUE,401,Medium,Rental,FALSE,HO-3,161,Low,Close,Severe
+1000037,Urban,4,3475,FALSE,FALSE,New,FALSE,708,Medium,Vacation Home,FALSE,HO-2,465,Low,Far,Severe
+1000038,Rural,83,2844,TRUE,FALSE,New,FALSE,371,Medium,Rental,FALSE,HO-5,1906,Low,Far,Normal
+1000039,Rural,57,1225,FALSE,TRUE,Fair,FALSE,396,High,Rental,FALSE,HO-2,692,High,Far,Severe
+1000040,Rural,10,3417,TRUE,TRUE,New,FALSE,457,Medium,Rental,TRUE,HO-6,1695,Medium,Close,Normal
+1000041,Rural,42,3640,FALSE,TRUE,Fair,TRUE,729,Low,Vacation Home,FALSE,HO-1,1457,Low,Moderate,Severe
+1000042,Urban,65,2037,TRUE,TRUE,New,TRUE,583,High,Primary Residence,FALSE,HO-2,1407,Medium,Close,Severe
+1000043,Rural,77,3669,FALSE,FALSE,New,TRUE,569,Medium,Primary Residence,TRUE,HO-3,249,Medium,Close,Normal
+1000044,Urban,94,2850,TRUE,TRUE,Fair,FALSE,437,Low,Rental,TRUE,HO-3,219,Medium,Far,Severe
+1000045,Urban,90,3764,FALSE,FALSE,New,FALSE,390,Low,Rental,FALSE,HO-2,1306,High,Moderate,Normal
+1000046,Urban,82,3396,TRUE,FALSE,Fair,FALSE,421,High,Rental,FALSE,HO-5,1629,Medium,Far,Severe
+1000047,Rural,23,1141,FALSE,TRUE,Old,FALSE,551,Medium,Primary Residence,TRUE,HO-6,1783,Low,Close,Severe
+1000048,Suburban,53,3916,FALSE,TRUE,Fair,FALSE,492,Medium,Rental,FALSE,HO-6,651,High,Moderate,Normal
+1000049,Urban,92,3836,FALSE,FALSE,Fair,FALSE,463,High,Rental,FALSE,HO-6,775,High,Far,Severe
+1000050,Rural,89,3580,FALSE,TRUE,Fair,TRUE,629,High,Vacation Home,TRUE,HO-1,1857,Low,Moderate,Normal
+1000051,Suburban,76,3416,TRUE,TRUE,New,TRUE,591,Medium,Primary Residence,FALSE,HO-6,803,Low,Far,Severe
+1000052,Rural,11,2659,TRUE,FALSE,Old,FALSE,434,Low,Rental,FALSE,HO-4,1490,Low,Moderate,Normal
+1000053,Rural,39,3220,TRUE,TRUE,Fair,FALSE,672,High,Vacation Home,TRUE,HO-4,1302,Low,Close,Severe
+1000054,Rural,34,2198,FALSE,TRUE,New,TRUE,605,Low,Primary Residence,FALSE,HO-6,417,Low,Close,Normal
+1000055,Suburban,85,2975,FALSE,FALSE,New,TRUE,741,Low,Vacation Home,FALSE,HO-5,1211,Low,Close,Normal
+1000056,Rural,71,1519,FALSE,FALSE,Old,TRUE,621,Low,Primary Residence,FALSE,HO-4,1271,Medium,Moderate,Normal
+1000057,Rural,53,3130,FALSE,FALSE,Old,FALSE,533,Low,Primary Residence,TRUE,HO-4,217,Medium,Far,Normal
+1000058,Urban,20,3401,FALSE,FALSE,New,TRUE,559,Medium,Primary Residence,TRUE,HO-1,1861,High,Close,Normal
+1000059,Urban,24,2404,TRUE,TRUE,New,TRUE,713,Low,Vacation Home,FALSE,HO-3,275,High,Far,Normal
+1000060,Rural,96,1351,FALSE,TRUE,Fair,TRUE,623,Medium,Primary Residence,TRUE,HO-2,1398,Medium,Close,Normal
+1000061,Urban,52,2067,TRUE,TRUE,New,FALSE,430,Medium,Rental,FALSE,HO-2,241,High,Far,Severe
+1000062,Urban,51,2241,FALSE,FALSE,Fair,FALSE,442,Medium,Rental,TRUE,HO-2,1142,High,Close,Normal
+1000063,Rural,41,2110,FALSE,FALSE,Fair,TRUE,655,High,Vacation Home,FALSE,HO-4,1995,Low,Moderate,Normal
+1000064,Urban,71,2190,TRUE,FALSE,New,TRUE,652,Low,Vacation Home,FALSE,HO-3,446,Medium,Far,Severe
+1000065,Rural,92,2540,TRUE,TRUE,Fair,FALSE,615,High,Primary Residence,FALSE,HO-4,410,Low,Far,Severe
+1000066,Rural,63,2339,FALSE,FALSE,New,FALSE,642,Low,Primary Residence,FALSE,HO-5,967,Low,Far,Normal
+1000067,Urban,65,2534,TRUE,FALSE,Fair,FALSE,571,Medium,Primary Residence,TRUE,HO-4,1471,High,Far,Normal
+1000068,Urban,60,3169,FALSE,FALSE,New,TRUE,740,Low,Vacation Home,TRUE,HO-5,675,High,Close,Normal
+1000069,Suburban,15,2925,TRUE,FALSE,New,TRUE,464,High,Rental,TRUE,HO-5,1270,Medium,Moderate,Severe
+1000070,Suburban,29,3085,FALSE,FALSE,Old,FALSE,424,Low,Rental,TRUE,HO-4,709,Low,Moderate,Normal
+1000071,Rural,65,3904,TRUE,TRUE,New,TRUE,464,Low,Rental,TRUE,HO-1,1671,High,Close,Normal
+1000072,Suburban,83,3877,TRUE,FALSE,Old,TRUE,651,High,Primary Residence,TRUE,HO-5,711,Medium,Far,Severe
+1000073,Suburban,93,2213,FALSE,TRUE,New,FALSE,448,Medium,Rental,FALSE,HO-2,1649,High,Far,Severe
+1000074,Suburban,92,3885,TRUE,FALSE,Fair,TRUE,762,Medium,Vacation Home,FALSE,HO-1,1076,Low,Moderate,Normal
+1000075,Urban,80,3313,FALSE,TRUE,Fair,TRUE,444,Medium,Primary Residence,TRUE,HO-6,1325,High,Close,Normal
+1000076,Urban,29,3289,TRUE,TRUE,New,FALSE,616,High,Primary Residence,TRUE,HO-3,929,High,Far,Severe
+1000077,Urban,52,1038,FALSE,TRUE,Fair,TRUE,453,Medium,Rental,FALSE,HO-1,158,High,Moderate,Severe
+1000078,Rural,21,2802,TRUE,TRUE,Fair,TRUE,688,Low,Vacation Home,TRUE,HO-4,1051,Low,Close,Normal
+1000079,Rural,84,1524,TRUE,FALSE,Fair,TRUE,703,Low,Vacation Home,TRUE,HO-6,1394,Medium,Moderate,Normal
+1000080,Suburban,35,1892,FALSE,TRUE,New,FALSE,370,High,Rental,TRUE,HO-6,972,Medium,Close,Normal
+1000081,Rural,6,2327,FALSE,FALSE,Old,FALSE,691,Low,Vacation Home,TRUE,HO-1,787,Medium,Far,Normal
+1000082,Urban,37,3214,FALSE,TRUE,Old,FALSE,714,High,Vacation Home,FALSE,HO-1,227,Medium,Moderate,Severe
+1000083,Suburban,70,3126,TRUE,FALSE,Fair,FALSE,648,Medium,Primary Residence,FALSE,HO-4,306,High,Close,Severe
+1000084,Suburban,56,1714,FALSE,FALSE,Old,FALSE,549,High,Primary Residence,FALSE,HO-1,1598,High,Moderate,Severe
+1000085,Rural,38,3360,TRUE,TRUE,Fair,FALSE,534,Low,Primary Residence,TRUE,HO-6,949,Low,Far,Normal
+1000086,Rural,61,983,TRUE,FALSE,Fair,FALSE,549,High,Primary Residence,FALSE,HO-3,1383,Low,Far,Severe
+1000087,Rural,98,1255,FALSE,FALSE,New,TRUE,620,Medium,Primary Residence,TRUE,HO-6,321,Medium,Moderate,Severe
+1000088,Rural,28,2866,FALSE,TRUE,Fair,TRUE,713,High,Vacation Home,TRUE,HO-3,495,Low,Moderate,Normal
+1000089,Urban,62,3146,FALSE,TRUE,Fair,TRUE,678,Medium,Vacation Home,FALSE,HO-6,1965,Medium,Close,Severe
+1000090,Urban,17,1909,TRUE,FALSE,New,TRUE,470,Low,Rental,FALSE,HO-2,254,High,Moderate,Normal
+1000091,Rural,1,3678,FALSE,TRUE,Old,TRUE,703,High,Vacation Home,FALSE,HO-1,1703,Low,Moderate,Normal
+1000092,Urban,27,2862,TRUE,TRUE,Old,FALSE,738,High,Vacation Home,TRUE,HO-4,799,High,Moderate,Severe
+1000093,Suburban,34,2697,FALSE,FALSE,Fair,TRUE,671,Low,Vacation Home,FALSE,HO-5,1484,High,Moderate,Severe
+1000094,Suburban,3,1960,FALSE,TRUE,New,FALSE,686,Medium,Vacation Home,TRUE,HO-2,743,Medium,Far,Normal
+1000095,Urban,25,3129,TRUE,FALSE,Old,FALSE,555,Medium,Primary Residence,TRUE,HO-3,1922,High,Far,Normal
+1000096,Urban,46,940,TRUE,TRUE,Old,TRUE,501,High,Primary Residence,TRUE,HO-2,165,High,Close,Severe
+1000097,Rural,5,1978,TRUE,FALSE,Fair,FALSE,589,Medium,Primary Residence,TRUE,HO-1,1622,Low,Close,Severe
+1000098,Rural,56,1705,FALSE,FALSE,Fair,TRUE,588,High,Primary Residence,FALSE,HO-2,1323,Low,Close,Severe
+1000099,Urban,39,3835,TRUE,TRUE,Fair,FALSE,575,Medium,Primary Residence,TRUE,HO-5,1105,High,Close,Normal
+1000100,Rural,43,2490,TRUE,FALSE,Old,FALSE,440,Low,Rental,TRUE,HO-2,735,Low,Close,Normal
+1000101,Urban,17,1732,FALSE,FALSE,Fair,FALSE,504,High,Primary Residence,TRUE,HO-4,237,High,Close,Normal
+1000102,Suburban,5,1188,TRUE,FALSE,Fair,FALSE,553,Low,Primary Residence,TRUE,HO-3,1343,Medium,Moderate,Normal
+1000103,Suburban,70,1229,FALSE,TRUE,Fair,FALSE,686,Low,Vacation Home,TRUE,HO-1,127,Low,Far,Severe
+1000104,Rural,44,3604,FALSE,FALSE,Fair,FALSE,667,Medium,Vacation Home,FALSE,HO-1,906,Medium,Moderate,Severe
+1000105,Urban,11,2765,TRUE,FALSE,New,FALSE,693,Low,Vacation Home,FALSE,HO-4,533,High,Moderate,Normal
+1000106,Urban,58,2879,FALSE,FALSE,Fair,FALSE,595,High,Primary Residence,TRUE,HO-4,1088,High,Moderate,Severe
+1000107,Urban,43,2998,TRUE,FALSE,Old,FALSE,775,Low,Vacation Home,TRUE,HO-3,1428,High,Moderate,Severe
+1000108,Urban,66,2437,FALSE,TRUE,New,TRUE,583,High,Primary Residence,FALSE,HO-4,1340,High,Moderate,Severe
+1000109,Suburban,2,2763,TRUE,TRUE,Old,TRUE,587,High,Primary Residence,FALSE,HO-4,1103,Medium,Far,Severe
+1000110,Suburban,76,2797,TRUE,FALSE,New,TRUE,697,High,Vacation Home,FALSE,HO-3,747,Medium,Moderate,Normal
+1000111,Suburban,77,1788,FALSE,FALSE,Old,FALSE,623,High,Vacation Home,FALSE,HO-1,1012,Medium,Moderate,Severe
+1000112,Suburban,78,3679,TRUE,FALSE,Fair,TRUE,448,Low,Rental,FALSE,HO-2,394,Low,Close,Normal
+1000113,Rural,7,3438,FALSE,FALSE,Old,TRUE,578,High,Primary Residence,TRUE,HO-4,593,Low,Far,Severe
+1000114,Rural,78,1525,TRUE,FALSE,Old,FALSE,548,Low,Rental,TRUE,HO-5,1486,Medium,Close,Normal
+1000115,Rural,32,3156,TRUE,TRUE,Old,TRUE,692,Low,Vacation Home,TRUE,HO-5,602,Low,Far,Severe
+1000116,Urban,98,2901,TRUE,TRUE,New,TRUE,590,High,Primary Residence,TRUE,HO-2,1471,Medium,Far,Severe
+1000117,Urban,71,2338,FALSE,FALSE,Old,FALSE,448,Medium,Rental,FALSE,HO-6,528,High,Close,Normal
+1000118,Suburban,23,3980,TRUE,FALSE,New,FALSE,403,Low,Rental,FALSE,HO-1,1199,Low,Far,Severe
+1000119,Urban,88,3663,TRUE,TRUE,Old,FALSE,745,Medium,Vacation Home,FALSE,HO-1,1493,Medium,Moderate,Severe
+1000120,Rural,93,1843,TRUE,FALSE,New,FALSE,612,Low,Primary Residence,FALSE,HO-6,1221,Medium,Moderate,Normal
+1000121,Urban,78,2623,TRUE,TRUE,New,TRUE,614,Medium,Primary Residence,TRUE,HO-4,1215,Medium,Moderate,Normal
+1000122,Suburban,52,1417,TRUE,TRUE,New,TRUE,663,Medium,Vacation Home,TRUE,HO-5,486,Medium,Moderate,Normal
+1000123,Suburban,99,1451,TRUE,TRUE,Fair,FALSE,756,Medium,Vacation Home,FALSE,HO-2,1608,Medium,Close,Normal
+1000124,Suburban,78,2145,TRUE,FALSE,Old,FALSE,393,High,Rental,TRUE,HO-6,1633,High,Far,Severe
+1000125,Rural,51,2841,FALSE,TRUE,New,FALSE,473,Low,Rental,TRUE,HO-3,755,Low,Moderate,Normal
+1000126,Urban,13,3325,TRUE,TRUE,Fair,TRUE,787,Low,Vacation Home,FALSE,HO-4,1454,Low,Far,Normal
+1000127,Rural,17,2901,TRUE,TRUE,Fair,TRUE,410,Low,Rental,FALSE,HO-4,641,Low,Moderate,Severe
+1000128,Rural,75,2301,TRUE,TRUE,Fair,FALSE,677,Low,Vacation Home,FALSE,HO-2,748,Low,Moderate,Normal
+1000129,Urban,79,3156,TRUE,FALSE,Fair,FALSE,703,High,Vacation Home,TRUE,HO-3,1908,Low,Moderate,Severe
+1000130,Suburban,95,1520,FALSE,TRUE,New,TRUE,429,High,Rental,TRUE,HO-3,1685,Medium,Close,Severe
+1000131,Urban,94,831,FALSE,TRUE,Fair,FALSE,637,High,Vacation Home,TRUE,HO-4,1422,Medium,Far,Severe
+1000132,Urban,50,3437,TRUE,FALSE,New,FALSE,578,High,Primary Residence,TRUE,HO-4,1364,High,Close,Normal
+1000133,Rural,45,1819,TRUE,TRUE,Old,TRUE,521,Medium,Primary Residence,TRUE,HO-4,337,Low,Far,Severe
+1000134,Urban,17,2310,FALSE,TRUE,Fair,TRUE,468,Medium,Rental,FALSE,HO-1,433,Medium,Close,Normal
+1000135,Suburban,68,2098,TRUE,FALSE,Old,TRUE,529,High,Primary Residence,TRUE,HO-4,435,Medium,Moderate,Severe
+1000136,Rural,17,3753,FALSE,FALSE,Fair,TRUE,652,High,Primary Residence,TRUE,HO-2,637,Low,Close,Severe
+1000137,Rural,29,3715,TRUE,TRUE,Old,TRUE,418,Medium,Rental,FALSE,HO-1,211,Medium,Moderate,Severe
+1000138,Urban,81,1091,FALSE,FALSE,Fair,TRUE,558,High,Primary Residence,TRUE,HO-5,1257,Medium,Close,Normal
+1000139,Urban,38,2800,FALSE,FALSE,New,FALSE,615,High,Primary Residence,FALSE,HO-4,1467,High,Moderate,Normal
+1000140,Urban,44,1618,TRUE,TRUE,New,FALSE,400,High,Rental,FALSE,HO-3,446,High,Close,Severe
+1000141,Suburban,98,3246,TRUE,FALSE,New,FALSE,709,High,Vacation Home,FALSE,HO-2,1811,Medium,Moderate,Severe
+1000142,Rural,20,2707,TRUE,FALSE,Old,TRUE,502,Low,Rental,FALSE,HO-3,233,Low,Moderate,Normal
+1000143,Urban,63,864,FALSE,TRUE,Fair,TRUE,635,Medium,Vacation Home,FALSE,HO-1,1253,Medium,Close,Normal
+1000144,Rural,97,2635,TRUE,FALSE,Old,FALSE,457,Low,Rental,FALSE,HO-4,1244,Low,Moderate,Severe
+1000145,Urban,98,2587,FALSE,TRUE,Old,TRUE,587,Medium,Primary Residence,FALSE,HO-3,203,Low,Moderate,Normal
+1000146,Suburban,41,3315,TRUE,TRUE,Fair,FALSE,481,Medium,Rental,FALSE,HO-1,985,Medium,Far,Normal
+1000147,Rural,18,2079,FALSE,FALSE,New,TRUE,400,Low,Rental,FALSE,HO-5,1938,Medium,Far,Normal
+1000148,Rural,9,2936,TRUE,FALSE,Fair,TRUE,647,Medium,Vacation Home,TRUE,HO-1,1210,Medium,Moderate,Normal
+1000149,Rural,79,1254,TRUE,TRUE,Old,TRUE,720,Medium,Vacation Home,TRUE,HO-6,1546,Medium,Close,Normal
+1000150,Rural,23,943,FALSE,TRUE,New,FALSE,711,Medium,Vacation Home,TRUE,HO-6,743,Medium,Moderate,Normal
+1000151,Rural,76,2021,FALSE,TRUE,Old,FALSE,587,Medium,Primary Residence,FALSE,HO-6,354,Low,Moderate,Severe
+1000152,Rural,10,2427,FALSE,FALSE,Fair,FALSE,713,High,Vacation Home,TRUE,HO-1,694,Medium,Close,Severe
+1000153,Urban,4,2964,FALSE,FALSE,New,TRUE,672,Low,Vacation Home,TRUE,HO-4,1234,Medium,Close,Normal
+1000154,Suburban,43,3376,FALSE,FALSE,Old,TRUE,459,Medium,Rental,FALSE,HO-4,322,High,Close,Normal
+1000155,Suburban,78,2820,FALSE,FALSE,Fair,TRUE,461,Medium,Rental,TRUE,HO-5,1674,Medium,Moderate,Severe
+1000156,Rural,14,3280,FALSE,TRUE,New,FALSE,671,Medium,Vacation Home,TRUE,HO-5,1130,Low,Close,Normal
+1000157,Urban,39,1299,FALSE,FALSE,New,FALSE,774,Low,Vacation Home,TRUE,HO-6,1638,High,Far,Normal
+1000158,Suburban,77,1640,FALSE,FALSE,New,FALSE,598,Low,Primary Residence,FALSE,HO-5,750,Medium,Far,Normal
+1000159,Rural,99,1219,TRUE,FALSE,New,TRUE,652,High,Vacation Home,TRUE,HO-4,328,Low,Moderate,Severe
+1000160,Rural,7,2424,FALSE,TRUE,New,TRUE,476,Medium,Rental,FALSE,HO-3,589,Medium,Moderate,Severe
+1000161,Urban,15,2372,FALSE,TRUE,Old,TRUE,411,Medium,Rental,TRUE,HO-6,527,High,Moderate,Severe
+1000162,Urban,36,1696,FALSE,TRUE,Old,TRUE,731,Low,Vacation Home,FALSE,HO-5,1574,Medium,Far,Normal
+1000163,Suburban,94,1486,TRUE,FALSE,Old,FALSE,632,High,Primary Residence,FALSE,HO-4,1414,Low,Close,Normal
+1000164,Urban,40,2735,TRUE,FALSE,Old,TRUE,533,Low,Primary Residence,TRUE,HO-4,317,Medium,Close,Severe
+1000165,Rural,35,2116,TRUE,TRUE,Fair,TRUE,738,Medium,Vacation Home,TRUE,HO-6,1035,Low,Close,Severe
+1000166,Suburban,54,1826,TRUE,TRUE,Old,TRUE,595,Low,Primary Residence,TRUE,HO-6,417,Low,Moderate,Normal
+1000167,Rural,85,2620,FALSE,FALSE,New,TRUE,482,High,Rental,TRUE,HO-2,177,High,Close,Severe
+1000168,Rural,73,2556,TRUE,TRUE,Fair,TRUE,669,Low,Primary Residence,FALSE,HO-3,1495,Low,Close,Normal
+1000169,Urban,96,3126,FALSE,FALSE,Old,FALSE,562,Medium,Primary Residence,FALSE,HO-3,443,Medium,Close,Severe
+1000170,Suburban,85,2545,TRUE,FALSE,Old,TRUE,419,Low,Rental,TRUE,HO-6,1625,High,Moderate,Normal
+1000171,Suburban,55,1318,FALSE,TRUE,New,FALSE,530,Low,Primary Residence,FALSE,HO-2,211,Medium,Close,Normal
+1000172,Urban,75,1561,FALSE,TRUE,Fair,FALSE,667,Low,Vacation Home,TRUE,HO-3,1028,High,Close,Normal
+1000173,Rural,36,1067,TRUE,TRUE,Fair,FALSE,446,Medium,Rental,TRUE,HO-3,581,Low,Far,Severe
+1000174,Suburban,32,2262,TRUE,FALSE,Old,TRUE,592,High,Primary Residence,FALSE,HO-5,1822,High,Moderate,Severe
+1000175,Urban,69,1767,FALSE,FALSE,New,TRUE,588,Medium,Primary Residence,TRUE,HO-6,1769,High,Moderate,Severe
+1000176,Rural,84,3662,FALSE,TRUE,Old,TRUE,483,Medium,Rental,TRUE,HO-3,790,Medium,Close,Severe
+1000177,Rural,3,1113,TRUE,TRUE,Fair,TRUE,700,Low,Vacation Home,FALSE,HO-2,818,Medium,Far,Normal
+1000178,Rural,46,3170,TRUE,TRUE,Old,TRUE,758,Low,Vacation Home,TRUE,HO-5,1958,Low,Far,Normal
+1000179,Suburban,91,3188,FALSE,TRUE,New,TRUE,689,High,Vacation Home,FALSE,HO-5,634,Low,Moderate,Normal
+1000180,Urban,7,2522,FALSE,TRUE,Fair,TRUE,808,High,Vacation Home,TRUE,HO-1,1145,High,Moderate,Severe
+1000181,Urban,87,3264,TRUE,FALSE,New,TRUE,725,Medium,Vacation Home,FALSE,HO-2,838,High,Moderate,Normal
+1000182,Urban,6,3534,TRUE,FALSE,Fair,TRUE,665,High,Vacation Home,TRUE,HO-3,1168,High,Far,Severe
+1000183,Suburban,45,1330,TRUE,FALSE,Fair,FALSE,657,Low,Vacation Home,TRUE,HO-5,1404,Low,Far,Severe
+1000184,Suburban,23,3689,TRUE,TRUE,Fair,TRUE,719,Medium,Vacation Home,FALSE,HO-5,1374,Medium,Close,Normal
+1000185,Suburban,21,2214,FALSE,TRUE,Old,FALSE,441,High,Rental,TRUE,HO-1,1066,High,Moderate,Severe
+1000186,Rural,58,1133,FALSE,FALSE,New,FALSE,610,Low,Primary Residence,FALSE,HO-1,1661,Low,Far,Normal
+1000187,Rural,39,2923,TRUE,FALSE,New,TRUE,598,Medium,Primary Residence,TRUE,HO-3,217,Low,Close,Severe
+1000188,Urban,54,936,FALSE,TRUE,Old,FALSE,697,High,Vacation Home,FALSE,HO-6,328,High,Close,Severe
+1000189,Rural,17,2552,TRUE,FALSE,Old,FALSE,532,Medium,Primary Residence,TRUE,HO-3,849,Low,Close,Severe
+1000190,Rural,18,1653,FALSE,TRUE,Old,TRUE,639,High,Vacation Home,TRUE,HO-2,502,Low,Close,Normal
+1000191,Rural,14,1015,FALSE,TRUE,New,FALSE,432,Low,Rental,FALSE,HO-4,1449,Medium,Far,Normal
+1000192,Urban,31,2322,FALSE,FALSE,Fair,TRUE,484,Low,Rental,TRUE,HO-4,1751,Low,Far,Normal
+1000193,Rural,50,821,TRUE,FALSE,New,TRUE,458,High,Rental,FALSE,HO-4,1292,Low,Moderate,Severe
+1000194,Urban,72,3788,TRUE,TRUE,Fair,TRUE,650,High,Vacation Home,TRUE,HO-1,394,High,Far,Severe
+1000195,Urban,44,1133,TRUE,TRUE,New,TRUE,706,High,Vacation Home,FALSE,HO-6,676,High,Far,Severe
+1000196,Rural,53,926,TRUE,TRUE,New,TRUE,465,Low,Rental,TRUE,HO-2,1666,Medium,Close,Normal
+1000197,Rural,52,3402,TRUE,TRUE,Old,TRUE,530,High,Primary Residence,FALSE,HO-2,1347,Low,Far,Severe
+1000198,Suburban,35,3443,FALSE,TRUE,New,TRUE,582,Low,Primary Residence,FALSE,HO-1,830,High,Close,Severe
+1000199,Rural,37,3964,TRUE,FALSE,New,TRUE,702,High,Vacation Home,TRUE,HO-2,1055,Medium,Close,Severe
+1000200,Suburban,41,1593,TRUE,TRUE,Fair,TRUE,404,High,Rental,TRUE,HO-1,1509,Medium,Moderate,Severe
+1000201,Urban,36,2144,TRUE,TRUE,New,TRUE,592,Medium,Primary Residence,TRUE,HO-5,1839,High,Far,Normal
+1000202,Suburban,27,1713,FALSE,TRUE,Fair,FALSE,722,Medium,Vacation Home,TRUE,HO-2,1582,Medium,Far,Severe
+1000203,Rural,20,1652,FALSE,FALSE,Fair,TRUE,493,High,Rental,FALSE,HO-2,848,High,Moderate,Severe
+1000204,Urban,14,1798,TRUE,FALSE,New,TRUE,742,Medium,Vacation Home,TRUE,HO-1,1559,Medium,Far,Severe
+1000205,Suburban,3,1803,FALSE,TRUE,New,TRUE,506,High,Primary Residence,TRUE,HO-4,571,Medium,Far,Severe
+1000206,Suburban,55,1646,FALSE,TRUE,Fair,FALSE,412,Medium,Rental,TRUE,HO-1,1683,Medium,Moderate,Severe
+1000207,Suburban,29,3147,TRUE,FALSE,Old,FALSE,720,Medium,Vacation Home,TRUE,HO-2,1703,High,Moderate,Severe
+1000208,Urban,5,2234,TRUE,FALSE,New,TRUE,600,High,Primary Residence,FALSE,HO-1,1136,Medium,Close,Severe
+1000209,Rural,67,3783,TRUE,FALSE,Fair,FALSE,720,Medium,Vacation Home,FALSE,HO-2,482,Medium,Close,Severe
+1000210,Rural,32,953,FALSE,TRUE,New,FALSE,767,Low,Primary Residence,FALSE,HO-2,1676,High,Far,Severe
+1000211,Urban,85,1023,FALSE,TRUE,New,FALSE,472,Low,Rental,FALSE,HO-5,253,High,Far,Normal
+1000212,Urban,28,2389,FALSE,TRUE,New,TRUE,745,High,Vacation Home,TRUE,HO-1,323,Medium,Close,Normal
+1000213,Rural,83,2927,FALSE,TRUE,Old,TRUE,622,High,Primary Residence,TRUE,HO-5,836,Low,Close,Severe
+1000214,Urban,51,1714,FALSE,FALSE,New,TRUE,607,High,Primary Residence,TRUE,HO-5,227,Medium,Far,Severe
+1000215,Suburban,96,2660,TRUE,FALSE,Fair,TRUE,437,High,Rental,TRUE,HO-3,980,High,Close,Severe
+1000216,Rural,80,2933,FALSE,TRUE,New,FALSE,730,Low,Vacation Home,FALSE,HO-4,1765,Low,Close,Normal
+1000217,Urban,14,2649,TRUE,TRUE,New,FALSE,536,Medium,Primary Residence,FALSE,HO-5,774,Medium,Far,Severe
+1000218,Rural,37,2092,TRUE,FALSE,Old,TRUE,563,High,Primary Residence,FALSE,HO-6,258,Medium,Far,Severe
+1000219,Suburban,55,3381,FALSE,TRUE,Fair,TRUE,550,High,Primary Residence,TRUE,HO-2,611,Medium,Far,Severe
+1000220,Rural,19,3414,FALSE,FALSE,New,FALSE,703,High,Vacation Home,FALSE,HO-1,428,Low,Close,Severe
+1000221,Suburban,7,2056,TRUE,TRUE,New,TRUE,690,Medium,Primary Residence,TRUE,HO-1,821,Medium,Far,Severe
+1000222,Suburban,61,2741,TRUE,FALSE,Old,TRUE,375,High,Rental,FALSE,HO-6,1381,Medium,Moderate,Severe
+1000223,Suburban,27,1379,FALSE,TRUE,Old,FALSE,609,Low,Primary Residence,TRUE,HO-6,330,Low,Far,Normal
+1000224,Rural,61,3113,FALSE,FALSE,New,FALSE,494,Low,Primary Residence,FALSE,HO-6,506,Low,Moderate,Normal
+1000225,Rural,98,2369,FALSE,TRUE,Fair,TRUE,681,High,Vacation Home,TRUE,HO-3,1087,High,Far,Severe
+1000226,Urban,91,3177,TRUE,TRUE,Fair,FALSE,629,Medium,Primary Residence,TRUE,HO-1,960,High,Close,Severe
+1000227,Rural,71,3474,TRUE,FALSE,New,TRUE,452,Low,Rental,TRUE,HO-4,1018,Low,Moderate,Normal
+1000228,Rural,98,3774,TRUE,TRUE,Old,FALSE,656,High,Vacation Home,TRUE,HO-1,1044,Low,Moderate,Severe
+1000229,Rural,13,2718,FALSE,TRUE,Old,FALSE,421,High,Rental,TRUE,HO-5,215,Low,Far,Severe
+1000230,Urban,84,3849,FALSE,TRUE,Fair,FALSE,727,High,Vacation Home,TRUE,HO-4,1763,Medium,Moderate,Severe
+1000231,Rural,64,3362,FALSE,TRUE,Fair,FALSE,538,Medium,Primary Residence,FALSE,HO-1,944,Low,Moderate,Severe
+1000232,Rural,32,2780,TRUE,FALSE,Fair,TRUE,585,Low,Primary Residence,TRUE,HO-2,516,Low,Close,Normal
+1000233,Suburban,4,967,FALSE,FALSE,New,FALSE,451,Low,Rental,FALSE,HO-3,1488,Low,Far,Normal
+1000234,Urban,97,3274,TRUE,TRUE,Fair,FALSE,673,Low,Vacation Home,FALSE,HO-6,358,High,Far,Normal
+1000235,Urban,41,1920,TRUE,TRUE,Fair,FALSE,785,High,Vacation Home,TRUE,HO-4,1559,Medium,Moderate,Normal
+1000236,Suburban,5,1824,TRUE,FALSE,New,TRUE,725,High,Vacation Home,FALSE,HO-4,753,Medium,Moderate,Severe
+1000237,Urban,71,2013,TRUE,FALSE,Fair,TRUE,473,Medium,Primary Residence,TRUE,HO-3,1992,High,Moderate,Normal
+1000238,Suburban,39,1708,TRUE,TRUE,Fair,FALSE,707,Low,Vacation Home,FALSE,HO-1,867,High,Moderate,Normal
+1000239,Suburban,50,1608,TRUE,FALSE,Fair,FALSE,541,High,Primary Residence,TRUE,HO-6,894,Medium,Moderate,Severe
+1000240,Suburban,51,3414,FALSE,FALSE,New,FALSE,617,High,Primary Residence,FALSE,HO-1,1588,Low,Far,Normal
+1000241,Rural,15,3929,TRUE,FALSE,New,TRUE,535,Medium,Primary Residence,FALSE,HO-1,323,Low,Close,Severe
+1000242,Rural,63,3671,TRUE,TRUE,Fair,TRUE,695,Low,Vacation Home,FALSE,HO-3,411,Low,Close,Severe
+1000243,Urban,72,2936,FALSE,TRUE,Old,TRUE,720,Low,Vacation Home,FALSE,HO-6,1480,Medium,Moderate,Normal
+1000244,Suburban,83,3348,FALSE,TRUE,Old,FALSE,484,Low,Rental,TRUE,HO-5,379,Low,Close,Severe
+1000245,Urban,59,3367,FALSE,FALSE,Fair,TRUE,514,High,Primary Residence,TRUE,HO-5,306,Medium,Close,Severe
+1000246,Suburban,45,1709,FALSE,TRUE,Fair,FALSE,558,Low,Primary Residence,TRUE,HO-2,1836,High,Close,Normal
+1000247,Rural,51,2538,FALSE,TRUE,New,TRUE,681,Medium,Vacation Home,TRUE,HO-3,158,Low,Close,Severe
+1000248,Rural,70,3694,FALSE,TRUE,Fair,TRUE,423,High,Rental,TRUE,HO-6,536,Low,Moderate,Normal
+1000249,Suburban,21,820,FALSE,TRUE,Fair,FALSE,770,High,Vacation Home,FALSE,HO-4,1416,High,Far,Normal
+1000250,Rural,70,1101,FALSE,FALSE,Old,FALSE,466,Low,Rental,FALSE,HO-6,534,Low,Close,Normal
+1000251,Urban,23,2139,FALSE,FALSE,New,FALSE,399,High,Rental,FALSE,HO-6,1260,High,Moderate,Severe
+1000252,Rural,85,3420,TRUE,FALSE,Fair,FALSE,620,High,Primary Residence,FALSE,HO-1,531,Low,Moderate,Severe
+1000253,Urban,48,1079,FALSE,FALSE,Old,FALSE,681,Low,Primary Residence,FALSE,HO-2,159,Medium,Far,Normal
+1000254,Suburban,57,2181,TRUE,TRUE,Fair,FALSE,741,Low,Vacation Home,TRUE,HO-5,106,Low,Far,Normal
+1000255,Urban,50,2377,TRUE,TRUE,Old,TRUE,499,Low,Primary Residence,TRUE,HO-5,458,High,Close,Normal
+1000256,Urban,2,1461,TRUE,FALSE,Fair,FALSE,430,Medium,Rental,FALSE,HO-1,1985,Low,Far,Severe
+1000257,Urban,26,3340,FALSE,TRUE,Fair,TRUE,750,Low,Vacation Home,TRUE,HO-6,1453,High,Moderate,Normal
+1000258,Rural,92,2711,TRUE,TRUE,Old,TRUE,539,Low,Primary Residence,FALSE,HO-6,681,High,Far,Normal
+1000259,Urban,76,1141,FALSE,FALSE,Old,TRUE,597,Low,Primary Residence,TRUE,HO-1,378,Medium,Moderate,Normal
+1000260,Urban,17,1177,TRUE,TRUE,Old,FALSE,480,Medium,Rental,FALSE,HO-2,1564,High,Moderate,Normal
+1000261,Urban,20,3884,TRUE,FALSE,New,TRUE,528,Low,Primary Residence,TRUE,HO-6,1638,High,Moderate,Normal
+1000262,Rural,98,2592,FALSE,TRUE,Old,FALSE,572,High,Primary Residence,FALSE,HO-5,1074,Medium,Far,Severe
+1000263,Rural,64,3785,FALSE,FALSE,Old,TRUE,412,High,Primary Residence,TRUE,HO-3,190,Low,Far,Normal
+1000264,Suburban,20,2521,FALSE,FALSE,Fair,FALSE,409,Low,Rental,TRUE,HO-5,1517,Medium,Moderate,Normal
+1000265,Urban,62,1564,FALSE,FALSE,New,TRUE,439,Low,Rental,TRUE,HO-5,1959,High,Moderate,Normal
+1000266,Urban,4,3358,FALSE,TRUE,Fair,TRUE,512,High,Primary Residence,TRUE,HO-1,1269,Medium,Far,Severe
+1000267,Rural,18,957,TRUE,FALSE,Old,TRUE,656,High,Primary Residence,TRUE,HO-3,280,High,Close,Severe
+1000268,Rural,46,1116,TRUE,TRUE,Old,FALSE,503,Medium,Primary Residence,FALSE,HO-2,253,Low,Moderate,Severe
+1000269,Urban,72,1308,FALSE,FALSE,New,TRUE,552,High,Primary Residence,FALSE,HO-2,1573,High,Close,Severe
+1000270,Rural,100,2662,FALSE,FALSE,Old,TRUE,455,High,Rental,TRUE,HO-4,266,Medium,Moderate,Severe
+1000271,Rural,16,3716,FALSE,FALSE,Old,TRUE,507,Low,Rental,TRUE,HO-1,1283,Low,Far,Normal
+1000272,Rural,82,2378,FALSE,TRUE,Old,FALSE,503,Low,Primary Residence,FALSE,HO-4,1216,Medium,Moderate,Normal
+1000273,Suburban,68,1835,TRUE,FALSE,Old,FALSE,496,Low,Rental,FALSE,HO-5,1669,Medium,Moderate,Severe
+1000274,Urban,44,979,FALSE,TRUE,New,FALSE,450,Medium,Rental,TRUE,HO-4,363,High,Far,Normal
+1000275,Urban,36,1788,FALSE,FALSE,New,FALSE,660,Low,Vacation Home,FALSE,HO-1,336,High,Moderate,Normal
+1000276,Suburban,7,3176,TRUE,FALSE,Old,FALSE,468,High,Rental,TRUE,HO-1,793,Medium,Far,Severe
+1000277,Suburban,92,2928,FALSE,FALSE,Fair,FALSE,707,Low,Vacation Home,FALSE,HO-5,630,Low,Far,Severe
+1000278,Urban,10,2769,TRUE,FALSE,Old,FALSE,425,High,Rental,FALSE,HO-4,1055,Low,Far,Severe
+1000279,Urban,70,1456,TRUE,FALSE,Fair,TRUE,452,Medium,Rental,FALSE,HO-2,1626,High,Close,Severe
+1000280,Rural,16,2215,FALSE,TRUE,Fair,TRUE,684,High,Vacation Home,FALSE,HO-6,1649,Low,Far,Normal
+1000281,Suburban,6,1126,TRUE,TRUE,Fair,FALSE,704,Low,Vacation Home,TRUE,HO-3,706,Low,Close,Severe
+1000282,Rural,90,3585,FALSE,TRUE,Fair,FALSE,726,High,Vacation Home,TRUE,HO-2,635,Low,Close,Severe
+1000283,Rural,4,3199,TRUE,FALSE,New,FALSE,513,Medium,Rental,FALSE,HO-5,1945,High,Moderate,Severe
+1000284,Urban,65,1129,FALSE,FALSE,Fair,FALSE,650,Medium,Vacation Home,FALSE,HO-1,1354,Medium,Close,Normal
+1000285,Rural,83,2286,TRUE,TRUE,Fair,TRUE,535,Low,Rental,TRUE,HO-4,176,Low,Far,Normal
+1000286,Suburban,95,2767,FALSE,TRUE,Fair,TRUE,371,Low,Rental,TRUE,HO-6,1216,Medium,Close,Normal
+1000287,Suburban,68,3184,TRUE,TRUE,Fair,FALSE,443,High,Rental,TRUE,HO-6,1425,High,Far,Severe
+1000288,Suburban,86,2989,TRUE,TRUE,New,FALSE,604,Low,Primary Residence,TRUE,HO-1,1805,Low,Far,Severe
+1000289,Rural,65,2989,FALSE,FALSE,New,TRUE,711,High,Vacation Home,FALSE,HO-1,832,Medium,Far,Severe
+1000290,Rural,76,3147,TRUE,TRUE,Fair,FALSE,675,Low,Vacation Home,TRUE,HO-6,581,Medium,Far,Normal
+1000291,Rural,25,1533,FALSE,FALSE,New,TRUE,691,High,Vacation Home,TRUE,HO-3,1847,Low,Moderate,Normal
+1000292,Urban,7,2760,FALSE,FALSE,New,FALSE,430,Medium,Rental,FALSE,HO-6,1957,High,Far,Normal
+1000293,Suburban,39,943,FALSE,TRUE,Fair,FALSE,545,High,Primary Residence,TRUE,HO-3,643,Medium,Far,Severe
+1000294,Urban,10,1398,TRUE,TRUE,New,FALSE,733,Medium,Vacation Home,TRUE,HO-3,1790,High,Far,Normal
+1000295,Rural,77,1641,FALSE,TRUE,New,FALSE,464,Medium,Rental,FALSE,HO-4,1883,Medium,Far,Severe
+1000296,Urban,18,1746,TRUE,FALSE,Fair,FALSE,540,Medium,Primary Residence,TRUE,HO-4,1082,High,Moderate,Normal
+1000297,Urban,77,2292,FALSE,TRUE,Old,FALSE,619,Medium,Primary Residence,TRUE,HO-5,1428,Low,Moderate,Severe
+1000298,Rural,44,1553,FALSE,FALSE,Fair,TRUE,712,High,Vacation Home,TRUE,HO-6,807,Low,Far,Severe
+1000299,Urban,62,1780,TRUE,FALSE,New,FALSE,615,High,Primary Residence,TRUE,HO-2,485,High,Moderate,Severe
+1000300,Rural,32,3986,TRUE,TRUE,New,FALSE,606,High,Primary Residence,TRUE,HO-3,1433,Medium,Far,Severe
+1000301,Suburban,33,2501,FALSE,TRUE,New,TRUE,666,High,Vacation Home,FALSE,HO-6,1497,Low,Close,Severe
+1000302,Rural,65,1784,TRUE,FALSE,New,TRUE,546,High,Primary Residence,FALSE,HO-1,1017,Low,Moderate,Severe
+1000303,Urban,64,1251,FALSE,FALSE,Old,TRUE,479,Medium,Rental,TRUE,HO-1,404,High,Close,Severe
+1000304,Rural,94,3340,TRUE,FALSE,Old,FALSE,474,Low,Rental,TRUE,HO-6,1236,Low,Far,Normal
+1000305,Urban,69,2590,FALSE,TRUE,New,TRUE,699,Low,Vacation Home,TRUE,HO-1,897,Medium,Far,Normal
+1000306,Urban,80,2694,TRUE,TRUE,Old,TRUE,580,Medium,Primary Residence,TRUE,HO-5,866,High,Far,Severe
+1000307,Rural,51,3882,FALSE,FALSE,Fair,FALSE,751,Medium,Vacation Home,FALSE,HO-3,832,Low,Moderate,Severe
+1000308,Urban,37,1956,TRUE,FALSE,Fair,FALSE,676,Medium,Vacation Home,TRUE,HO-5,1488,Low,Moderate,Severe
+1000309,Rural,87,1297,TRUE,TRUE,New,TRUE,602,High,Primary Residence,FALSE,HO-5,592,High,Moderate,Severe
+1000310,Urban,22,1970,TRUE,FALSE,New,FALSE,691,Low,Vacation Home,FALSE,HO-1,1253,High,Far,Normal
+1000311,Rural,48,2190,TRUE,FALSE,Fair,FALSE,441,High,Rental,FALSE,HO-4,1720,Low,Close,Severe
+1000312,Suburban,28,2697,FALSE,FALSE,Old,TRUE,743,High,Vacation Home,FALSE,HO-1,581,High,Moderate,Severe
+1000313,Suburban,91,1822,FALSE,FALSE,Fair,TRUE,616,Medium,Primary Residence,TRUE,HO-4,1492,Medium,Close,Normal
+1000314,Rural,54,3708,FALSE,TRUE,New,TRUE,482,High,Rental,TRUE,HO-5,386,Medium,Far,Normal
+1000315,Suburban,10,1524,FALSE,TRUE,Old,FALSE,640,High,Primary Residence,FALSE,HO-1,1632,High,Close,Severe
+1000316,Suburban,4,2819,FALSE,TRUE,Fair,TRUE,576,High,Primary Residence,TRUE,HO-4,488,Medium,Far,Severe
+1000317,Rural,13,3094,TRUE,TRUE,Old,FALSE,477,High,Rental,TRUE,HO-2,513,Low,Moderate,Severe
+1000318,Rural,59,2108,TRUE,FALSE,New,FALSE,437,Low,Rental,TRUE,HO-2,1156,Low,Far,Normal
+1000319,Suburban,33,3073,TRUE,FALSE,Old,TRUE,462,Medium,Rental,FALSE,HO-2,799,High,Far,Normal
+1000320,Suburban,67,2195,FALSE,FALSE,New,FALSE,694,Medium,Vacation Home,FALSE,HO-2,1751,High,Far,Severe
+1000321,Rural,35,998,TRUE,FALSE,Fair,FALSE,579,Medium,Primary Residence,FALSE,HO-3,911,Low,Close,Severe
+1000322,Urban,51,2731,FALSE,TRUE,Fair,FALSE,604,Low,Primary Residence,FALSE,HO-3,1766,High,Moderate,Normal
+1000323,Rural,93,3390,TRUE,FALSE,Old,FALSE,534,High,Primary Residence,FALSE,HO-6,1216,Low,Moderate,Severe
+1000324,Suburban,28,820,TRUE,TRUE,New,FALSE,679,Medium,Primary Residence,FALSE,HO-4,1959,Low,Far,Normal
+1000325,Suburban,90,3029,TRUE,TRUE,Old,TRUE,659,Low,Vacation Home,FALSE,HO-2,838,Medium,Close,Severe
+1000326,Urban,1,1071,FALSE,TRUE,Fair,TRUE,514,Low,Primary Residence,TRUE,HO-3,1688,High,Moderate,Severe
+1000327,Urban,70,3793,TRUE,TRUE,New,TRUE,632,High,Primary Residence,FALSE,HO-2,1827,Medium,Close,Severe
+1000328,Suburban,17,3415,FALSE,FALSE,Fair,FALSE,481,High,Rental,FALSE,HO-4,907,Medium,Moderate,Severe
+1000329,Suburban,66,1426,TRUE,TRUE,New,FALSE,474,Medium,Rental,FALSE,HO-5,1536,Medium,Close,Normal
+1000330,Rural,9,1783,FALSE,TRUE,New,FALSE,725,Medium,Vacation Home,FALSE,HO-2,155,Low,Moderate,Severe
+1000331,Urban,41,3771,FALSE,FALSE,New,FALSE,449,High,Rental,TRUE,HO-3,131,High,Far,Severe
+1000332,Rural,93,3417,TRUE,FALSE,Fair,TRUE,664,Low,Vacation Home,TRUE,HO-2,363,Low,Close,Normal
+1000333,Suburban,55,1102,TRUE,FALSE,New,TRUE,453,Low,Rental,FALSE,HO-5,1306,Low,Close,Normal
+1000334,Suburban,99,1036,FALSE,FALSE,New,TRUE,422,High,Rental,TRUE,HO-3,1109,Medium,Far,Severe
+1000335,Suburban,58,3161,TRUE,TRUE,New,FALSE,489,High,Rental,FALSE,HO-4,200,Low,Close,Severe
+1000336,Urban,52,1043,FALSE,FALSE,New,TRUE,567,High,Primary Residence,TRUE,HO-1,1703,Low,Moderate,Severe
+1000337,Suburban,27,2174,FALSE,TRUE,Fair,TRUE,666,Low,Vacation Home,FALSE,HO-4,684,Medium,Far,Normal
+1000338,Rural,29,937,FALSE,FALSE,New,TRUE,687,High,Vacation Home,TRUE,HO-3,1833,Low,Far,Severe
+1000339,Suburban,58,2262,FALSE,TRUE,Old,TRUE,466,High,Rental,FALSE,HO-6,1916,Medium,Far,Normal
+1000340,Suburban,23,3701,TRUE,FALSE,Fair,FALSE,427,Low,Rental,TRUE,HO-6,1186,Medium,Close,Severe
+1000341,Urban,23,818,FALSE,TRUE,Old,TRUE,417,Low,Rental,FALSE,HO-4,1815,High,Moderate,Normal
+1000342,Suburban,69,3301,TRUE,TRUE,Old,FALSE,709,Low,Vacation Home,FALSE,HO-2,388,High,Moderate,Normal
+1000343,Suburban,54,3645,TRUE,FALSE,Old,TRUE,587,Low,Primary Residence,TRUE,HO-3,728,Medium,Moderate,Severe
+1000344,Urban,22,3104,TRUE,FALSE,Fair,FALSE,429,High,Rental,FALSE,HO-3,950,High,Moderate,Severe
+1000345,Urban,10,3298,FALSE,TRUE,New,TRUE,681,High,Vacation Home,TRUE,HO-5,1722,Medium,Moderate,Normal
+1000346,Rural,76,3927,FALSE,TRUE,Old,TRUE,586,High,Primary Residence,TRUE,HO-5,875,Low,Moderate,Severe
+1000347,Urban,43,2951,TRUE,FALSE,Fair,TRUE,642,Medium,Vacation Home,TRUE,HO-4,619,High,Moderate,Normal
+1000348,Urban,48,2986,TRUE,FALSE,Fair,TRUE,643,High,Vacation Home,FALSE,HO-6,725,High,Far,Severe
+1000349,Suburban,32,3051,FALSE,FALSE,Old,TRUE,421,High,Rental,FALSE,HO-2,394,Medium,Moderate,Severe
+1000350,Urban,5,2017,FALSE,TRUE,New,TRUE,691,Medium,Vacation Home,TRUE,HO-3,291,High,Close,Normal
+1000351,Suburban,54,3795,FALSE,TRUE,Fair,TRUE,712,Low,Vacation Home,TRUE,HO-6,1703,Medium,Moderate,Normal
+1000352,Rural,96,2962,FALSE,FALSE,New,TRUE,509,High,Rental,TRUE,HO-4,1923,Medium,Close,Severe
+1000353,Rural,20,3535,TRUE,FALSE,Fair,TRUE,617,Medium,Primary Residence,TRUE,HO-1,1824,Low,Moderate,Severe
+1000354,Rural,71,2005,TRUE,FALSE,Fair,TRUE,567,High,Primary Residence,TRUE,HO-3,352,Medium,Close,Normal
+1000355,Rural,35,3372,FALSE,FALSE,New,FALSE,699,Low,Vacation Home,TRUE,HO-5,1186,Low,Far,Normal
+1000356,Urban,55,1975,FALSE,TRUE,Old,FALSE,659,Low,Vacation Home,FALSE,HO-6,306,High,Far,Severe
+1000357,Suburban,58,3342,TRUE,FALSE,New,TRUE,449,Low,Rental,FALSE,HO-1,929,Low,Close,Normal
+1000358,Urban,78,3065,TRUE,FALSE,Old,FALSE,560,Medium,Primary Residence,FALSE,HO-6,632,Low,Close,Normal
+1000359,Suburban,96,1238,TRUE,FALSE,New,TRUE,462,Low,Rental,FALSE,HO-5,1423,Medium,Far,Severe
+1000360,Rural,79,3664,TRUE,FALSE,New,TRUE,666,High,Vacation Home,FALSE,HO-3,1961,Medium,Close,Severe
+1000361,Urban,13,2843,FALSE,FALSE,New,FALSE,720,Low,Vacation Home,TRUE,HO-1,385,High,Far,Normal
+1000362,Rural,11,3782,FALSE,FALSE,New,TRUE,761,Low,Vacation Home,FALSE,HO-6,478,High,Far,Severe
+1000363,Urban,58,934,FALSE,FALSE,Old,FALSE,445,Low,Rental,TRUE,HO-5,1160,High,Far,Normal
+1000364,Rural,31,1114,FALSE,FALSE,Fair,TRUE,595,Medium,Primary Residence,FALSE,HO-4,813,Low,Far,Severe
+1000365,Suburban,48,2215,FALSE,FALSE,New,TRUE,477,Medium,Rental,FALSE,HO-5,655,Medium,Far,Normal
+1000366,Urban,36,3818,TRUE,TRUE,Old,TRUE,683,Medium,Vacation Home,TRUE,HO-2,1304,High,Far,Normal
+1000367,Rural,21,2038,TRUE,TRUE,Fair,FALSE,586,Medium,Primary Residence,FALSE,HO-4,1180,Low,Far,Normal
+1000368,Urban,26,2555,TRUE,TRUE,New,FALSE,700,Medium,Vacation Home,FALSE,HO-6,1954,Medium,Moderate,Severe
+1000369,Suburban,62,2176,FALSE,FALSE,Old,TRUE,453,Low,Rental,TRUE,HO-4,316,Low,Close,Normal
+1000370,Rural,52,2290,TRUE,FALSE,Old,FALSE,669,High,Vacation Home,FALSE,HO-2,1522,Low,Far,Normal
+1000371,Rural,71,1566,TRUE,FALSE,Old,TRUE,700,Low,Vacation Home,FALSE,HO-6,1217,Low,Moderate,Normal
+1000372,Suburban,7,2259,TRUE,FALSE,New,TRUE,469,Low,Rental,FALSE,HO-3,1703,Medium,Moderate,Normal
+1000373,Rural,11,3098,FALSE,TRUE,New,TRUE,508,Medium,Rental,FALSE,HO-4,1808,Low,Close,Severe
+1000374,Urban,66,2500,TRUE,FALSE,Old,FALSE,738,High,Vacation Home,FALSE,HO-2,1091,High,Moderate,Severe
+1000375,Suburban,46,3128,TRUE,TRUE,New,TRUE,682,Medium,Primary Residence,TRUE,HO-6,651,High,Moderate,Severe
+1000376,Urban,21,2679,TRUE,TRUE,Fair,FALSE,536,Low,Primary Residence,TRUE,HO-3,1820,High,Close,Severe
+1000377,Rural,25,2939,TRUE,FALSE,Old,FALSE,484,Low,Rental,TRUE,HO-1,1373,Low,Close,Severe
+1000378,Urban,58,3081,TRUE,TRUE,New,FALSE,457,Low,Rental,FALSE,HO-3,1058,Medium,Moderate,Normal
+1000379,Suburban,61,3772,TRUE,TRUE,Fair,TRUE,684,Low,Primary Residence,TRUE,HO-3,219,Low,Far,Normal
+1000380,Rural,83,2263,FALSE,TRUE,New,TRUE,417,Low,Rental,FALSE,HO-5,657,Low,Close,Normal
+1000381,Suburban,14,3793,FALSE,TRUE,New,TRUE,533,Low,Primary Residence,TRUE,HO-6,660,Low,Moderate,Severe
+1000382,Rural,45,1382,FALSE,FALSE,Old,FALSE,545,High,Primary Residence,TRUE,HO-2,1666,Low,Close,Severe
+1000383,Rural,64,3644,FALSE,TRUE,New,FALSE,468,Medium,Primary Residence,TRUE,HO-6,772,Low,Far,Normal
+1000384,Suburban,67,3171,FALSE,TRUE,New,TRUE,678,Medium,Vacation Home,FALSE,HO-1,1817,Low,Close,Normal
+1000385,Urban,2,2616,TRUE,TRUE,Old,TRUE,669,Medium,Vacation Home,FALSE,HO-6,1610,High,Far,Severe
+1000386,Urban,83,3628,FALSE,TRUE,Fair,FALSE,706,Low,Vacation Home,FALSE,HO-1,1025,High,Far,Normal
+1000387,Rural,36,3576,TRUE,FALSE,Fair,FALSE,592,Medium,Primary Residence,FALSE,HO-4,1176,High,Close,Normal
+1000388,Suburban,92,2443,FALSE,TRUE,New,TRUE,525,Low,Rental,FALSE,HO-3,883,Medium,Moderate,Normal
+1000389,Rural,24,959,TRUE,FALSE,New,TRUE,622,Low,Primary Residence,FALSE,HO-6,1248,Medium,Far,Normal
+1000390,Suburban,78,2912,FALSE,FALSE,Old,FALSE,546,Low,Primary Residence,TRUE,HO-1,1912,Medium,Close,Severe
+1000391,Urban,55,1158,FALSE,FALSE,Old,FALSE,664,Low,Vacation Home,FALSE,HO-3,542,Low,Moderate,Normal
+1000392,Rural,53,1108,FALSE,TRUE,Old,TRUE,599,Low,Primary Residence,TRUE,HO-1,1824,Low,Close,Severe
+1000393,Rural,18,2269,FALSE,FALSE,Fair,FALSE,508,High,Primary Residence,TRUE,HO-3,1607,High,Close,Normal
+1000394,Suburban,81,2982,FALSE,TRUE,New,TRUE,773,Medium,Vacation Home,TRUE,HO-1,267,Medium,Far,Normal
+1000395,Rural,70,2962,TRUE,TRUE,New,FALSE,633,Medium,Primary Residence,TRUE,HO-5,454,Medium,Far,Normal
+1000396,Rural,4,2890,TRUE,FALSE,Fair,FALSE,431,Medium,Rental,FALSE,HO-4,1716,Low,Close,Normal
+1000397,Urban,56,2136,TRUE,TRUE,Fair,TRUE,489,Low,Primary Residence,FALSE,HO-1,924,Medium,Far,Normal
+1000398,Urban,94,3897,FALSE,FALSE,Fair,TRUE,754,Medium,Vacation Home,TRUE,HO-2,1818,Medium,Far,Severe
+1000399,Urban,41,2435,TRUE,FALSE,New,TRUE,695,Medium,Vacation Home,TRUE,HO-2,675,High,Close,Normal
+1000400,Suburban,46,3765,TRUE,TRUE,Fair,FALSE,499,High,Rental,TRUE,HO-4,1626,Medium,Close,Severe
+1000401,Rural,82,3787,FALSE,FALSE,New,FALSE,495,Low,Primary Residence,FALSE,HO-1,1516,Low,Far,Normal
+1000402,Rural,94,2884,FALSE,TRUE,New,TRUE,426,High,Rental,FALSE,HO-2,1566,High,Close,Severe
+1000403,Suburban,20,2871,TRUE,TRUE,New,TRUE,575,Low,Primary Residence,TRUE,HO-3,1774,Medium,Far,Normal
+1000404,Suburban,55,3920,TRUE,FALSE,New,TRUE,701,High,Vacation Home,FALSE,HO-4,490,Low,Close,Normal
+1000405,Rural,26,3345,FALSE,TRUE,Old,TRUE,681,High,Vacation Home,TRUE,HO-4,716,Medium,Moderate,Severe
+1000406,Urban,99,1431,FALSE,FALSE,New,TRUE,606,High,Primary Residence,FALSE,HO-6,1998,Medium,Moderate,Severe
+1000407,Suburban,20,2975,TRUE,FALSE,New,TRUE,521,Low,Primary Residence,TRUE,HO-1,1398,High,Far,Normal
+1000408,Suburban,64,2199,TRUE,FALSE,New,TRUE,694,Low,Vacation Home,TRUE,HO-4,1010,Medium,Close,Normal
+1000409,Rural,56,1733,FALSE,FALSE,New,TRUE,704,Low,Vacation Home,FALSE,HO-1,829,Low,Close,Normal
+1000410,Urban,88,2144,TRUE,TRUE,New,TRUE,600,High,Primary Residence,FALSE,HO-2,1940,Medium,Moderate,Severe
+1000411,Suburban,92,3496,TRUE,FALSE,Old,FALSE,610,Medium,Primary Residence,FALSE,HO-4,253,Medium,Close,Severe
+1000412,Urban,41,2205,FALSE,FALSE,Fair,TRUE,655,High,Vacation Home,TRUE,HO-4,364,High,Moderate,Severe
+1000413,Rural,88,1859,TRUE,TRUE,Fair,FALSE,498,Low,Primary Residence,FALSE,HO-6,1016,Low,Far,Normal
+1000414,Suburban,88,1702,TRUE,FALSE,Fair,FALSE,638,High,Primary Residence,FALSE,HO-3,326,Low,Far,Severe
+1000415,Suburban,65,1046,FALSE,TRUE,Old,TRUE,591,Medium,Primary Residence,FALSE,HO-5,1930,High,Close,Severe
+1000416,Rural,82,3937,FALSE,FALSE,Fair,FALSE,670,High,Vacation Home,FALSE,HO-3,112,Low,Moderate,Severe
+1000417,Urban,28,1442,FALSE,FALSE,Old,FALSE,652,Low,Primary Residence,TRUE,HO-5,604,Medium,Moderate,Normal
+1000418,Urban,96,3575,FALSE,FALSE,New,TRUE,580,Medium,Primary Residence,FALSE,HO-1,1602,Medium,Far,Severe
+1000419,Urban,6,3016,FALSE,TRUE,New,TRUE,497,Medium,Rental,FALSE,HO-5,1797,Low,Moderate,Severe
+1000420,Rural,5,3748,FALSE,FALSE,New,FALSE,702,High,Vacation Home,TRUE,HO-1,1993,Low,Far,Severe
+1000421,Rural,56,3149,TRUE,FALSE,Old,TRUE,678,Low,Primary Residence,TRUE,HO-3,180,Low,Far,Normal
+1000422,Suburban,10,1215,FALSE,TRUE,Old,FALSE,770,High,Vacation Home,TRUE,HO-1,1472,Medium,Far,Normal
+1000423,Suburban,63,1486,TRUE,TRUE,Fair,FALSE,562,Medium,Primary Residence,TRUE,HO-4,1416,Low,Far,Normal
+1000424,Suburban,66,802,FALSE,TRUE,Fair,FALSE,738,Low,Vacation Home,FALSE,HO-4,590,Medium,Close,Severe
+1000425,Rural,82,2728,TRUE,FALSE,Fair,TRUE,475,Medium,Rental,TRUE,HO-6,1385,Low,Moderate,Severe
+1000426,Urban,10,3559,FALSE,FALSE,Fair,FALSE,504,High,Rental,FALSE,HO-6,1791,High,Moderate,Normal
+1000427,Rural,30,3199,TRUE,FALSE,Old,TRUE,526,High,Primary Residence,FALSE,HO-5,121,Low,Far,Normal
+1000428,Urban,71,2010,TRUE,TRUE,New,TRUE,477,Medium,Rental,FALSE,HO-1,222,Medium,Close,Severe
+1000429,Rural,40,3238,TRUE,TRUE,Fair,TRUE,742,Low,Vacation Home,TRUE,HO-2,1415,Low,Far,Normal
+1000430,Suburban,62,2083,FALSE,FALSE,New,TRUE,487,Low,Primary Residence,FALSE,HO-2,278,Medium,Far,Severe
+1000431,Suburban,6,2507,FALSE,TRUE,Old,FALSE,515,Low,Primary Residence,FALSE,HO-4,1507,Medium,Far,Normal
+1000432,Rural,39,1509,FALSE,TRUE,Old,TRUE,618,High,Vacation Home,TRUE,HO-1,988,Low,Close,Severe
+1000433,Rural,19,2589,TRUE,TRUE,Fair,TRUE,561,Low,Primary Residence,FALSE,HO-3,158,Low,Far,Normal
+1000434,Rural,90,3270,TRUE,TRUE,New,FALSE,478,Medium,Rental,FALSE,HO-1,186,High,Far,Normal
+1000435,Urban,31,1783,FALSE,FALSE,Fair,TRUE,510,Low,Rental,FALSE,HO-3,1690,High,Moderate,Normal
+1000436,Urban,35,2716,TRUE,TRUE,New,FALSE,578,High,Primary Residence,TRUE,HO-4,312,High,Far,Severe
+1000437,Suburban,6,1144,TRUE,FALSE,Fair,TRUE,765,High,Vacation Home,FALSE,HO-1,155,High,Close,Severe
+1000438,Urban,18,1763,FALSE,FALSE,Old,TRUE,644,Medium,Vacation Home,TRUE,HO-5,481,High,Close,Severe
+1000439,Urban,6,3127,TRUE,TRUE,Old,FALSE,631,High,Vacation Home,FALSE,HO-3,379,Medium,Close,Severe
+1000440,Urban,74,2827,TRUE,FALSE,Old,TRUE,697,Medium,Vacation Home,TRUE,HO-5,1102,Low,Close,Severe
+1000441,Urban,35,2346,TRUE,TRUE,Old,TRUE,465,Medium,Rental,FALSE,HO-1,1803,Low,Far,Normal
+1000442,Rural,30,2771,FALSE,FALSE,New,FALSE,448,Medium,Rental,FALSE,HO-4,969,Medium,Moderate,Severe
+1000443,Suburban,58,1306,TRUE,FALSE,Fair,TRUE,367,Low,Rental,TRUE,HO-3,1831,Low,Moderate,Severe
+1000444,Urban,47,2959,FALSE,TRUE,New,FALSE,696,High,Vacation Home,FALSE,HO-6,776,High,Close,Normal
+1000445,Suburban,2,3978,FALSE,FALSE,New,TRUE,647,Low,Vacation Home,TRUE,HO-5,517,Low,Far,Normal
+1000446,Urban,66,2496,TRUE,TRUE,Old,TRUE,476,High,Rental,FALSE,HO-6,1468,High,Far,Normal
+1000447,Urban,41,1721,TRUE,TRUE,New,FALSE,714,Medium,Vacation Home,FALSE,HO-2,566,Low,Far,Normal
+1000448,Rural,100,2014,FALSE,TRUE,Old,TRUE,528,High,Primary Residence,TRUE,HO-3,1897,Low,Far,Severe
+1000449,Urban,44,3465,TRUE,FALSE,Old,TRUE,549,Medium,Primary Residence,TRUE,HO-4,1568,Medium,Far,Severe
+1000450,Rural,87,2515,FALSE,FALSE,Old,TRUE,522,Medium,Primary Residence,FALSE,HO-5,1605,Low,Close,Normal
+1000451,Urban,41,1741,TRUE,FALSE,New,FALSE,697,Medium,Vacation Home,TRUE,HO-6,170,Medium,Moderate,Normal
+1000452,Rural,4,1815,TRUE,TRUE,Old,FALSE,622,High,Primary Residence,FALSE,HO-5,1473,Low,Close,Severe
+1000453,Suburban,46,893,FALSE,TRUE,Old,TRUE,410,High,Rental,TRUE,HO-3,1115,High,Close,Normal
+1000454,Rural,39,1477,FALSE,TRUE,Fair,FALSE,470,Medium,Rental,FALSE,HO-2,437,Low,Close,Severe
+1000455,Rural,77,924,TRUE,FALSE,Fair,TRUE,428,High,Rental,FALSE,HO-1,820,Low,Moderate,Severe
+1000456,Urban,86,2229,TRUE,TRUE,New,FALSE,418,High,Rental,FALSE,HO-5,535,Medium,Far,Severe
+1000457,Suburban,71,2795,FALSE,FALSE,Fair,TRUE,569,High,Primary Residence,FALSE,HO-5,841,Medium,Close,Severe
+1000458,Suburban,86,2466,FALSE,TRUE,New,TRUE,523,Medium,Primary Residence,FALSE,HO-4,374,Medium,Close,Normal
+1000459,Rural,81,1379,TRUE,TRUE,Fair,TRUE,677,High,Vacation Home,TRUE,HO-6,1205,Low,Close,Severe
+1000460,Urban,46,1876,FALSE,FALSE,Old,TRUE,402,Medium,Rental,TRUE,HO-4,290,High,Close,Normal
+1000461,Rural,30,2756,TRUE,FALSE,Fair,FALSE,778,High,Vacation Home,FALSE,HO-1,148,Low,Close,Severe
+1000462,Rural,17,859,TRUE,FALSE,Fair,TRUE,576,High,Primary Residence,FALSE,HO-4,256,Low,Moderate,Severe
+1000463,Urban,74,2974,TRUE,TRUE,Old,TRUE,422,Medium,Rental,TRUE,HO-2,1341,High,Far,Normal
+1000464,Urban,73,2439,TRUE,TRUE,New,FALSE,708,High,Vacation Home,FALSE,HO-1,1636,High,Far,Normal
+1000465,Urban,22,2226,TRUE,FALSE,New,TRUE,695,High,Vacation Home,FALSE,HO-5,1029,High,Moderate,Normal
+1000466,Rural,83,1501,TRUE,FALSE,Fair,TRUE,441,High,Rental,TRUE,HO-6,160,Medium,Moderate,Normal
+1000467,Urban,27,2381,FALSE,TRUE,Old,FALSE,474,Low,Rental,FALSE,HO-4,1550,High,Close,Normal
+1000468,Urban,50,2265,TRUE,FALSE,New,TRUE,612,Low,Primary Residence,FALSE,HO-6,1000,High,Close,Normal
+1000469,Urban,73,3515,FALSE,FALSE,Old,FALSE,678,Low,Vacation Home,FALSE,HO-4,159,Medium,Moderate,Severe
+1000470,Rural,41,3942,TRUE,FALSE,Old,TRUE,426,High,Rental,TRUE,HO-3,1910,Low,Far,Severe
+1000471,Urban,98,3259,FALSE,FALSE,Old,TRUE,438,Medium,Rental,TRUE,HO-6,901,Low,Close,Severe
+1000472,Urban,49,1380,FALSE,FALSE,New,FALSE,607,High,Vacation Home,TRUE,HO-2,1920,High,Far,Severe
+1000473,Suburban,13,1179,FALSE,TRUE,Fair,TRUE,389,Low,Rental,TRUE,HO-6,1746,High,Close,Normal
+1000474,Urban,97,3516,FALSE,FALSE,New,TRUE,504,Low,Rental,FALSE,HO-2,671,High,Far,Normal
+1000475,Suburban,72,1699,TRUE,TRUE,Fair,FALSE,515,Low,Rental,TRUE,HO-2,1428,Medium,Moderate,Severe
+1000476,Rural,13,3414,FALSE,TRUE,Old,TRUE,562,High,Primary Residence,TRUE,HO-5,1334,Medium,Far,Severe
+1000477,Rural,50,2215,TRUE,TRUE,Fair,FALSE,603,High,Primary Residence,TRUE,HO-6,179,Medium,Moderate,Severe
+1000478,Urban,25,2040,TRUE,TRUE,New,FALSE,462,Low,Rental,FALSE,HO-6,1791,Medium,Far,Severe
+1000479,Suburban,98,2650,TRUE,TRUE,Old,FALSE,573,Low,Rental,TRUE,HO-5,783,Medium,Moderate,Normal
+1000480,Urban,57,2573,TRUE,TRUE,Old,FALSE,744,Medium,Vacation Home,TRUE,HO-3,764,Medium,Close,Severe
+1000481,Rural,17,974,TRUE,TRUE,Old,FALSE,694,High,Vacation Home,FALSE,HO-2,231,High,Far,Severe
+1000482,Rural,80,2279,FALSE,TRUE,New,FALSE,411,Low,Rental,TRUE,HO-5,252,High,Close,Normal
+1000483,Rural,59,939,FALSE,FALSE,Old,TRUE,494,Medium,Primary Residence,FALSE,HO-3,133,Low,Moderate,Normal
+1000484,Rural,62,1648,TRUE,TRUE,Fair,FALSE,708,High,Vacation Home,FALSE,HO-2,710,Low,Moderate,Severe
+1000485,Suburban,29,3023,FALSE,TRUE,Old,FALSE,537,Low,Primary Residence,TRUE,HO-3,627,Medium,Close,Normal
+1000486,Suburban,29,2304,TRUE,TRUE,Old,TRUE,393,High,Rental,FALSE,HO-3,200,Medium,Close,Severe
+1000487,Urban,66,981,TRUE,TRUE,New,TRUE,424,High,Rental,TRUE,HO-6,1764,High,Close,Severe
+1000488,Rural,41,2915,FALSE,TRUE,Fair,FALSE,520,Low,Primary Residence,TRUE,HO-6,1164,Low,Far,Normal
+1000489,Urban,43,1941,FALSE,FALSE,Fair,FALSE,767,Medium,Vacation Home,FALSE,HO-6,604,High,Moderate,Normal
+1000490,Rural,68,2857,FALSE,FALSE,Old,TRUE,735,High,Vacation Home,FALSE,HO-2,1225,Low,Far,Severe
+1000491,Suburban,67,2414,FALSE,FALSE,New,FALSE,574,Low,Primary Residence,TRUE,HO-3,746,High,Far,Normal
+1000492,Suburban,8,2391,TRUE,TRUE,Fair,TRUE,648,High,Primary Residence,TRUE,HO-3,1989,High,Far,Normal
+1000493,Urban,14,3225,TRUE,FALSE,Old,TRUE,453,Low,Rental,FALSE,HO-4,1099,Medium,Moderate,Normal
+1000494,Rural,76,3053,TRUE,TRUE,Fair,FALSE,415,High,Rental,FALSE,HO-1,1471,Low,Moderate,Normal
+1000495,Urban,39,1038,FALSE,FALSE,Fair,FALSE,651,Medium,Primary Residence,FALSE,HO-2,727,Medium,Moderate,Normal
+1000496,Urban,48,919,FALSE,FALSE,New,FALSE,721,High,Vacation Home,TRUE,HO-2,1408,High,Moderate,Severe
+1000497,Urban,56,1473,TRUE,TRUE,New,TRUE,523,Medium,Primary Residence,FALSE,HO-1,296,High,Far,Normal
+1000498,Rural,73,1146,FALSE,FALSE,Old,FALSE,442,Low,Rental,FALSE,HO-4,799,Medium,Moderate,Normal
+1000499,Suburban,72,847,FALSE,FALSE,Old,TRUE,664,Medium,Vacation Home,FALSE,HO-6,548,Medium,Moderate,Severe
+1000500,Urban,17,1495,FALSE,FALSE,New,TRUE,394,High,Rental,TRUE,HO-6,1219,High,Moderate,Normal
